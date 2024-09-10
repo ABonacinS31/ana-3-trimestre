@@ -1,0 +1,13 @@
+body{
+   background-collor:bisque; 
+   font-familly: bai janjurre; 
+} 
+#container {
+    display: flex;/*elementos dispostos em linha */ 
+} 
+.cartao {
+    margin: 1rem 1rem;
+    background-collor: aqua
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33%)
