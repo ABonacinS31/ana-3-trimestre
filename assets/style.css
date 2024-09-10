@@ -13,7 +13,7 @@ body{
     flex-basis: calc(33%) 
 }
 .cartao_conteudo {
-    text-align: center:center;
+    text-align: center: center;
     /*background-collor: aquamarine; */
     height: 100%;
 }
@@ -22,3 +22,4 @@ body{
     text-align: left;
     padding: 0.5rem;
     position: absolute;
+}
